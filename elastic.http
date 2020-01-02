@@ -1,0 +1,5 @@
+### GET request with parameter
+GET http://localhost:9200/comic/_search?q=无法上学的我和九位老师
+Accept: application/json
+
+###
